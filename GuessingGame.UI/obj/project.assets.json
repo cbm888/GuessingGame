@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "GuessinGame.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/GuessinGame.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GuessinGame.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuessinGame.BLL/1.0.0": {
+      "type": "project",
+      "path": "../GuessinGame.BLL/GuessinGame.BLL.csproj",
+      "msbuildProject": "../GuessinGame.BLL/GuessinGame.BLL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "GuessinGame.BLL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\cbmar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\cbmar\\source\\repos\\GuessingGame.UI\\GuessingGame.UI\\GuessingGame.UI.csproj",
+      "projectName": "GuessingGame.UI",
+      "projectPath": "C:\\Users\\cbmar\\source\\repos\\GuessingGame.UI\\GuessingGame.UI\\GuessingGame.UI.csproj",
+      "packagesPath": "C:\\Users\\cbmar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cbmar\\source\\repos\\GuessingGame.UI\\GuessingGame.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\cbmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\cbmar\\source\\repos\\GuessingGame.UI\\GuessinGame.BLL\\GuessinGame.BLL.csproj": {
+              "projectPath": "C:\\Users\\cbmar\\source\\repos\\GuessingGame.UI\\GuessinGame.BLL\\GuessinGame.BLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

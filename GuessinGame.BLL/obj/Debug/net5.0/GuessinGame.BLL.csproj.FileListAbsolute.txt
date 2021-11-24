@@ -1,0 +1,12 @@
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\bin\Debug\net5.0\GuessinGame.BLL.deps.json
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\bin\Debug\net5.0\GuessinGame.BLL.dll
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\bin\Debug\net5.0\ref\GuessinGame.BLL.dll
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\bin\Debug\net5.0\GuessinGame.BLL.pdb
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\GuessinGame.BLL.csproj.AssemblyReference.cache
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\GuessinGame.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\GuessinGame.BLL.AssemblyInfoInputs.cache
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\GuessinGame.BLL.AssemblyInfo.cs
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\GuessinGame.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\GuessinGame.BLL.dll
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\ref\GuessinGame.BLL.dll
+C:\Users\cbmar\source\repos\GuessingGame.UI\GuessinGame.BLL\obj\Debug\net5.0\GuessinGame.BLL.pdb
